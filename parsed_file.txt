@@ -1,0 +1,16 @@
+A=
+constraint 0: [-1, 2]
+constraint 1: [-2, 3]
+constraint 2: [-3, 4]
+b=
+constraint 0: 10
+constraint 1: 12
+constraint 2: 11
+c=
+[1, 2]
+Eqin=
+constraint 0: -1
+constraint 1: 1
+constraint 2: 0
+MinMax=
+[1]
